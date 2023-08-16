@@ -43,6 +43,11 @@
     padding-bottom: 120px;
 }
 
+.media_icon_container {
+    display: flex;
+    justify-content: center;
+}
+
 .portfolio_navi_container {
     display: flex;
     justify-content: center;

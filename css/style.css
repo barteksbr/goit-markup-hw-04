@@ -175,6 +175,7 @@ body {
 }
 
 .goals_icon {
+    background-color: #F4F4FD;
     padding: 24px 100px 24px 100px;
 }
 
@@ -211,6 +212,11 @@ body {
     font-weight: 500;
     font-size: 20px;
     letter-spacing: 0.01em;
+}
+
+.media_icon {
+    padding: 9px;
+    padding-bottom: 0px;
 }
 
 .menu_button {
