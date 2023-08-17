@@ -28,7 +28,7 @@
 
 .section_container {
     display: flex;
-    padding-top: 120px;    
+    padding-top: 120px;
 }
 
 .pic_container {
@@ -48,6 +48,12 @@
     justify-content: center;
 }
 
+.customer_icon_container {
+    display: flex;
+    padding-bottom: 120px;
+    column-gap: 12px;
+}
+
 .portfolio_navi_container {
     display: flex;
     justify-content: center;
@@ -62,12 +68,10 @@
     padding-bottom: 120px;
     row-gap: 24px;
     column-gap: 12px;
-    }
+}
 
 .footer_container {
     width: 264px;
     display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
     padding-left: 160px;
 }

@@ -219,6 +219,22 @@ body {
     padding-bottom: 0px;
 }
 
+.media_icon:hover {
+    background-color: #31D0AA;
+}
+
+.customer_icon {
+    border: 1px solid #8E8F99;
+    border-radius: 4px;
+    padding: 16px 32px 16px 32px;
+    color:#404BBF
+}
+
+.customer_icon:hover {
+    border: 1px solid #404BBF;
+}
+
+
 .menu_button {
     list-style: none;
 }
@@ -241,6 +257,17 @@ body {
     letter-spacing: 0.01em;
 }
 
+.social_media_text {
+    font-size: 16px;
+    color: #FFFFFF;
+    letter-spacing: 0.02em;
+    padding-bottom: 16px;
+}
+
+.social_media_footer {
+    padding-left: 120px;
+}
+
 .footer {
     width: 1440px;
     background-color: #2E2F42;
@@ -254,4 +281,5 @@ body {
     letter-spacing: 0.1em;
     line-height: 24px;
     padding-top: 16px;
+    width: 264px;
 }
