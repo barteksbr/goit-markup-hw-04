@@ -43,7 +43,7 @@
     padding-bottom: 120px;
 }
 
-.media_icon_container {
+.media_icon_list {
     display: flex;
     justify-content: center;
 }
@@ -51,7 +51,7 @@
 .customer_icon_list {
     display: flex;
     padding-bottom: 120px;
-    column-gap: 24px;
+    column-gap: 20px;
     justify-content: center;
 }
 

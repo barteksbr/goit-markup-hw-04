@@ -214,6 +214,10 @@ body {
     letter-spacing: 0.01em;
 }
 
+.media {
+    list-style: none;
+}
+
 .media_icon {
     padding: 9px;
     padding-bottom: 0px;
