@@ -223,11 +223,15 @@ body {
     background-color: #31D0AA;
 }
 
+.client {
+    list-style: none;
+}
+
 .customer_icon {
     border: 1px solid #8E8F99;
     border-radius: 4px;
     padding: 16px 32px 16px 32px;
-    color:#404BBF
+    color:#404BBF;
 }
 
 .customer_icon:hover {
