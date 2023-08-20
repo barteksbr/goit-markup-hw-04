@@ -218,17 +218,29 @@ body {
 
 .media {
     list-style: none;
-}
-
-.media_icon {
     background-color: #4D5AE5;
     border-radius: 50%;
-    width: 16px;
-    height: 16px;
-    padding: 12px;
+    width: 40px;
+    height: 40px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
 }
 
-.media_icon:hover {
+.media_footer {
+    list-style: none;
+    background-color: #4D5AE5;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.media_footer:hover {
     background-color: #31D0AA;
 }
 

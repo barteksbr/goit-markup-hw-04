@@ -59,7 +59,6 @@
 
 .media_icon_list {
     display: flex;
-    justify-content: center;
     column-gap: 24px;
     padding-top: 8px;
 }
