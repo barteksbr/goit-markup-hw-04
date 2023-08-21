@@ -79,8 +79,14 @@
 
 .porfolio_pics {
     list-style: none;
+    border: 1px solid #E7E9FC;
     display: flex;
     flex-direction: column;
+    cursor: pointer;
+}
+
+.porfolio_pics:hover {
+    box-shadow: 0px 2px 2px 0px #2E2F4214;
 }
 
 .portfolio_pic_container {
@@ -88,8 +94,8 @@
     flex-wrap: wrap;
     justify-content: center;
     padding-bottom: 120px;
-    row-gap: 24px;
-    column-gap: 12px;
+    row-gap: 48px;
+    column-gap: 24px;
 }
 
 .footer_container {
